@@ -1,2 +1,3 @@
 Chacon, S. and Straub, B. Pro Git. Apress
 Loeliger J
+Ryan Hodson
